@@ -1,4 +1,3 @@
-// import React from 'react';   // 导入react的样式
 
 
 var React=require('react');
