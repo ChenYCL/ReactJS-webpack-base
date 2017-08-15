@@ -16,7 +16,7 @@ if you wanna output a bundle.js automally,you can run
 
 then you can refresh the page and view changes.
 or you wanna refresh+build automatically.
-you can run 
+you can run with
 
 
 - webpack-dev-server 
